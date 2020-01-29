@@ -1,0 +1,6 @@
+﻿  Pars_Core.cpp
+c:\users\user\documents\labs\c++\1)parser\parser\pars_core.cpp(105): warning C4715: Pars_Core::GetValue_i: значение возвращается не при всех путях выполнения
+c:\users\user\documents\labs\c++\1)parser\parser\pars_core.cpp(144): warning C4715: Pars_Core::GetValue_s: значение возвращается не при всех путях выполнения
+c:\users\user\documents\labs\c++\1)parser\parser\pars_core.cpp(124): warning C4715: Pars_Core::GetValue_d: значение возвращается не при всех путях выполнения
+  Parser.vcxproj -> C:\Users\User\Documents\Labs\C++\1)Parser\x64\Debug\Parser.exe
+  Parser.vcxproj -> C:\Users\User\Documents\Labs\C++\1)Parser\x64\Debug\Parser.pdb (Partial PDB)

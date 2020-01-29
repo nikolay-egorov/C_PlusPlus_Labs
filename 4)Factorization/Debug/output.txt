@@ -1,0 +1,68 @@
+Factorization of 23 is:
+23 in Power: 1
+
+Factorization of 442 is:
+2 in Power: 1
+13 in Power: 1
+17 in Power: 1
+
+Factorization of 123 is:
+3 in Power: 1
+41 in Power: 1
+
+Factorization of 56 is:
+2 in Power: 3
+7 in Power: 1
+
+Factorization of 87879 is:
+3 in Power: 1
+11 in Power: 1
+2663 in Power: 1
+
+Factorization of 3156 is:
+2 in Power: 2
+3 in Power: 1
+263 in Power: 1
+
+Factorization of 7646 is:
+2 in Power: 1
+3823 in Power: 1
+
+Factorization of 123 is:
+3 in Power: 1
+41 in Power: 1
+
+Factorization of 44 is:
+2 in Power: 2
+11 in Power: 1
+
+Factorization of 345 is:
+3 in Power: 1
+5 in Power: 1
+23 in Power: 1
+
+Factorization of 5612 is:
+2 in Power: 2
+23 in Power: 1
+61 in Power: 1
+
+Factorization of 326 is:
+2 in Power: 1
+163 in Power: 1
+
+Factorization of 6869 is:
+6869 in Power: 1
+
+Factorization of 79 is:
+79 in Power: 1
+
+Factorization of 579 is:
+3 in Power: 1
+193 in Power: 1
+
+Factorization of 57646 is:
+2 in Power: 1
+19 in Power: 1
+37 in Power: 1
+41 in Power: 1
+

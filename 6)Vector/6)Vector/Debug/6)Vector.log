@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\user\documents\c++\6)vector\6)vector\vector_hm.h(103): warning C4244: =: преобразование "double" в "::size_t", возможна потеря данных
+  c:\users\user\documents\c++\6)vector\6)vector\vector_hm.h(101): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\user\documents\c++\6)vector\6)vector\source.cpp(20): note: выполняется компиляция ссылки на экземпляр шаблон функции "Vector_HM<int>::Vector_HM(::size_t,const T)"
+          with
+          [
+              T=int
+          ]
+  c:\users\user\documents\c++\6)vector\6)vector\source.cpp(6): note: выполняется компиляция ссылки на экземпляр шаблон класс "Vector_HM<int>"
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  Vector_HM.cpp
+  6)Vector.vcxproj -> C:\Users\User\Documents\C++\6)Vector\Debug\6)Vector.exe
